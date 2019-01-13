@@ -44,14 +44,9 @@ Generate some examples using original images and semantically relevant texts.
 - [Semantic Image Synthesis via Adversarial Learning](https://github.com/woozzu/dong_iccv_2017), implemented by Seonghyeon Nam
 
 ## Citation
-@inproceeding{duc2018Paired-D,
-
+@inproceedings{duc2018Paired-D,
 Author={Duc Minh Vo, Akihiro Sugimoto},
-
 Title={Paired-D GAN for Semantic Image Synthesis},
-
 Booktitle={ACCV},
-
 Year={2018}
-
 }
