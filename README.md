@@ -43,5 +43,5 @@ Generate some examples using original images and semantically relevant texts.
 Author={Duc Minh Vo, Akihiro Sugimoto},
 Title={Paired-D GAN for Semantic Image Synthesis},
 Booktitle={ACCV},
-Year={2018},
+Year={2018}
 }
