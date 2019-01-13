@@ -20,6 +20,11 @@ Download a pretrained [English](https://s3-us-west-1.amazonaws.com/fasttext-vect
 
 The caption data is from [this repository](https://github.com/reedscot/icml2016). 
 
+## Pretrained models
+- [VGG-16](https://drive.google.com/open?id=1iLX_-xJjX-FuKQJJJM2HE6MKKUXbhUZV)
+- [Birds](https://drive.google.com/open?id=12TzCRpCSPRBmQ9dSR6d-qLkG_E6fOfXw)
+- [Flowers](https://drive.google.com/open?id=1olZ0ViipY328dcG2QqBhEpG8gAPln_8Y)
+
 ## Run
 - `scripts/train_text_embedding_[birds/flowers].sh`  
 Train a visual-semantic embedding model using the method of [Kiros et al.](https://arxiv.org/abs/1411.2539).
@@ -40,8 +45,13 @@ Generate some examples using original images and semantically relevant texts.
 
 ## Citation
 @inproceeding{duc2018Paired-D,
+
 Author={Duc Minh Vo, Akihiro Sugimoto},
+
 Title={Paired-D GAN for Semantic Image Synthesis},
+
 Booktitle={ACCV},
+
 Year={2018}
+
 }
