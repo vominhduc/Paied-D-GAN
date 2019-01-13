@@ -37,3 +37,11 @@ Generate some examples using original images and semantically relevant texts.
 - [Text to image synthesis](https://github.com/reedscot/icml2016)
 - [StackGAN](https://github.com/hanzhanggit/StackGAN)
 - [Semantic Image Synthesis via Adversarial Learning](https://github.com/woozzu/dong_iccv_2017), implemented by Seonghyeon Nam
+
+## Citation
+@inproceeding{duc2018Paired-D,
+Author={Duc Minh Vo, Akihiro Sugimoto},
+Title={Paired-D GAN for Semantic Image Synthesis},
+Booktitle={ACCV},
+Year={2018},
+}
