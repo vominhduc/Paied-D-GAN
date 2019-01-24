@@ -21,8 +21,8 @@ Download a pretrained [English](https://s3-us-west-1.amazonaws.com/fasttext-vect
 The caption data is from [this repository](https://github.com/reedscot/icml2016). 
 
 ## Pretrained models
-- [Birds text embedding] (https://drive.google.com/open?id=1kU3j0RhPpFXyi7CKTTCgSeBTND3P2y5B)
-- [Flowers text embedding] (https://drive.google.com/open?id=1uOglLT54T9tcoxuM0aCBd6xW5qiRcIhB)
+- [Birds text embedding](https://drive.google.com/open?id=1kU3j0RhPpFXyi7CKTTCgSeBTND3P2y5B)
+- [Flowers text embedding](https://drive.google.com/open?id=1uOglLT54T9tcoxuM0aCBd6xW5qiRcIhB)
 - [VGG-16](https://drive.google.com/open?id=1iLX_-xJjX-FuKQJJJM2HE6MKKUXbhUZV)
 - [Birds](https://drive.google.com/open?id=12TzCRpCSPRBmQ9dSR6d-qLkG_E6fOfXw)
 - [Flowers](https://drive.google.com/open?id=1olZ0ViipY328dcG2QqBhEpG8gAPln_8Y)
